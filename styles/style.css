@@ -1,0 +1,24 @@
+/*    @IMPORT    */
+
+    /* FONT CDN */
+
+        @import url('https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400;500;600&family=Josefin+Sans:ital,wght@0,200;0,300;0,400;1,100;1,200;1,300&display=swap');
+
+    /* ICONS CDN */
+
+        @import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css);
+
+
+/*    INDEX    */
+
+    body {
+        background: rgba(255, 255, 255, 0.329);
+        margin: 3%;
+        border: 2px solid black;
+    }
+
+    #content {
+        background: rgba(128, 128, 128, 0.493);
+        padding: 2%;
+    }
+
